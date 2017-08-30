@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/minesweeper.png
-title: MineSweeper Game
+title: Minesweeper Game
 permalink: projects/minesweeper
 date: 2017
 labels:
