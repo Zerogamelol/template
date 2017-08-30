@@ -11,16 +11,11 @@ labels:
 summary: My team developed a Mine Sweeper game for a class project
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+<img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+For the final project for ICS 211 class, me and two classmates have to form a group to create a minesweeper game using java language. The minesweeper game is a computer game where you are given a grid of boxes where the goal is to "sweep" the entire grid for mines. When you left click on a box on the grid it will either give you a blank, a number corresponding to how many mines the box is touching, and or a mine. If you click on a box with a mine it means game over. The point of this game is correctly guess where the mines are and flagging them given the clues from the previously revealed boxes which have either blanks or numbers.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I was the lead programmer who was responsible for programming how the game operates. I was essentially responsible for the gameplay. I started with how create a grid of boxes by using buttons in java's api. After that I started to create the buttons themselves.Since I had to randomize where the mines were and how many mines were touching a particular box, this was rather hard because I had to check which boxes were touching which. Then I came up with using a 2D array to create the grid in which each boxes had a row and column number corresponding to it. This made it easier to check which boxes were touching. This also made it easy to check the boxes that were located diagonally of a particular box. My teammate had to do most of the GUI's since I particular had a hard grasping with using Java GUI. That is one thing that I want to improve on next time.
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
