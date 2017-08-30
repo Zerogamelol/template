@@ -1,15 +1,14 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+image: images/minesweeper.png
+title: MineSweeper Game
+permalink: projects/minesweeper
+date: 2017
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - GUI
+  - Java
+summary: My team developed a Mine Sweeper game for a class project
 ---
 
 <div class="ui small rounded images">
