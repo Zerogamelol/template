@@ -11,7 +11,7 @@ labels:
 summary: A personal project of creating a puzzle game using Java.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/puzzle.png">
+<img class="ui image" src="/images/puzzle.png">
 
 The puzzle game consists of a picture which are divided by a 3 x 3 grid. Each box in this grid is a part of the picture except one of 
 them and the goal is to correctly order the pieces. Only pieces right next to empty one is able to be moved. 
