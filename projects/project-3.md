@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/sticker.jpg
+image: images/Haley.png
 title: Puzzle
-permalink: projects/haley.png
+permalink: projects/puzzle
 date: 2017
 labels:
   - Java
