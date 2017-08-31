@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/cpp.png
 title: List Project
-permalink: projects/vacay
+permalink: projects/linkedlist
 date: 2016
 labels:
   - C++
@@ -13,7 +13,7 @@ labels:
 summary: A linked list project using C/C++.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/linked_list.png">
 
 List Project is a linked list program that takes a set of records and makes a linked list out of it. In the program we can add, delete, modify, sort, and reverse the list. This project was done solo.
 
