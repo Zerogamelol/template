@@ -17,6 +17,8 @@ For the final project for ICS 211 class, me and two classmates have to form a gr
 
 For this project, I was the lead programmer who was responsible for programming how the game operates. I was essentially responsible for the gameplay. I started with how create a grid of boxes by using buttons in java's api. After that I started to create the buttons themselves.Since I had to randomize where the mines were and how many mines were touching a particular box, this was rather hard because I had to check which boxes were touching which. Then I came up with using a 2D array to create the grid in which each boxes had a row and column number corresponding to it. This made it easier to check which boxes were touching. This also made it easy to check the boxes that were located diagonally of a particular box. My teammate had to do most of the GUI's since I particular had a hard grasping with using Java GUI. That is one thing that I want to improve on next time.
 
+Source : [MineSweeper](https://github.com/cristianaspacio/minesweeper-1)
+
 
 
 
