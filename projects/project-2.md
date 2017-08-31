@@ -2,23 +2,21 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: List Project
 permalink: projects/vacay
-date: 2015
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C++
+  - C
+  - Unix
+  - Debugging
+summary: A linked list project using C/C++.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+List Project is a linked list program that takes a set of records and makes a linked list out of it. In the program we can add, delete, modify, sort, and reverse the list. This project was done solo.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The project was done on C/C++ and it was a cumulative of all the things that we learned about C and C++ in ICS 212. We also had learn how to use Unix as well as how to make Makefiles and SCCS. This was one of the hardest projects I have done in my entire school career but I learned many skills from it like time management and debugging. I also learned how to write Pseudocode effectively doing this project.
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
