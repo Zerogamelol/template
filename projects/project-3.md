@@ -1,59 +1,24 @@
 ---
 layout: project
 type: project
-image: images/.png
-title: Cotton
-permalink: projects/sticker
-date: 2015
+image: images/sticker.jpg
+title: Puzzle
+permalink: projects/haley.png
+date: 2017
 labels:
   - Java
-summary: A sticker game/program I made for ICS 111
+  - GUI
+summary: A personal project of creating a puzzle game using Java.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The puzzle game consists of a picture which are divided by a 3 x 3 grid. Each box in this grid is a part of the picture except one of 
+them and the goal is to correctly order the pieces. Only pieces right next to empty one is able to be moved. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+This personal project is my first Java Project I created to test myself. I learned many techniques and skills related to Java and GUI's in general. Like how to animate using Java swing timer and Threads, and learning that one Threads is better because it's more effective and precise on frames per second.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
+This project is very similar to many other games like this. I only used it to understand how GUI's work. 
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
