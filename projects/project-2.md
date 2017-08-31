@@ -9,7 +9,6 @@ labels:
   - C++
   - C
   - Unix
-  - Debugging
 summary: A linked list project using C/C++.
 ---
 
