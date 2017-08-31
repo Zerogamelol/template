@@ -1,14 +1,13 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/.png
 title: Cotton
-permalink: projects/cotton
-date: 2014
+permalink: projects/sticker
+date: 2015
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+summary: A sticker game/program I made for ICS 111
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
