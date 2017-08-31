@@ -8,6 +8,7 @@ date: 2017
 labels:
   - GUI
   - Java
+  - Data Structures
 summary: My team developed a Mine Sweeper game for a class project
 ---
 
