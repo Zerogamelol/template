@@ -11,7 +11,7 @@ labels:
 summary: My team developed a Mine Sweeper game for a class project
 ---
 
-<img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
+<img class="ui medium right floated rounded image" src="/images/mineexample.png">
 
 For the final project for ICS 211 class, me and two classmates have to form a group to create a minesweeper game using java language. The minesweeper game is a computer game where you are given a grid of boxes where the goal is to "sweep" the entire grid for mines. When you left click on a box on the grid it will either give you a blank, a number corresponding to how many mines the box is touching, and or a mine. If you click on a box with a mine it means game over. The point of this game is correctly guess where the mines are and flagging them given the clues from the previously revealed boxes which have either blanks or numbers.
 
