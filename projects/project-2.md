@@ -19,4 +19,4 @@ List Project is a linked list program that takes a set of records and makes a li
 
 The project was done on C/C++ and it was a cumulative of all the things that we learned about C and C++ in ICS 212. We also had learn how to use Unix as well as how to make Makefiles and SCCS. This was one of the hardest projects I have done in my entire school career but I learned many skills from it like time management and debugging. I also learned how to write Pseudocode effectively doing this project.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/cristianaspacio/linked_list"><i class="large github icon"></i>LinkedList</a>
