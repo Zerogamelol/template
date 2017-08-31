@@ -20,5 +20,5 @@ This personal project is my first Java Project I created to test myself. I learn
 
 This project is very similar to many other games like this. I only used it to understand how GUI's work. 
 
-Source: <a href="https://github.com/cristianaspacio/minesweeper-1"><i class="large github icon "></i>MineSweeper</a>
+Source: <a href="https://github.com/cristianaspacio/puzzle_game"><i class="large github icon "></i>Puzzle</a>
 
