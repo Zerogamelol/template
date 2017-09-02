@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium left floated image" src="../images/code_world.png">
+<img class="ui medium left floated image" src="../images/js.png">
 
 ## Thoughts on JavaScript
 
