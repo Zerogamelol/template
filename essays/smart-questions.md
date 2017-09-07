@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions
+title: Dumb Questions
 date: 2017-08-30
 labels:
   - Learning
 ---
 
-<img class="ui medium left floated image" src="../images/js.png">
+<img class="ui medium left floated image" src="../images/stack-overflow.png">
 
 ## Smart Questions?
 
