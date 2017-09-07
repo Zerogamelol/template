@@ -15,7 +15,7 @@ labels:
  
 ## The Smart Way
   
-   Here is an example 
+   Here is an example of a smart question.
    
 ## Overall 
   Overall doing the WODs and learning JavaScript has help me improved on my coding skills. I hope to learn more from JavaScript and the WODs. There a lot things that I still neeed to learn but I feel that I have made huge steps toward improving myself. So that one day I can be promoted from newbie to pro coder in no time.
