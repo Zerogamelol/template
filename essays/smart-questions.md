@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Dumb Questions
+title: Smart Questions
 date: 2017-08-30
 labels:
   - Learning
