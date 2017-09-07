@@ -15,7 +15,7 @@ labels:
  
 ## The Smart Way
   
-   [Here](https://stackoverflow.com/questions/45912510/does-java-jit-cheat-when-running-jdk-code) is an example of a smart question.
+   [Here](https://stackoverflow.com/questions/45568008/why-do-generic-methods-and-generic-types-have-different-type-introduction-syntax) is an example of a smart question. The header of the question is on point and short. The question shows that developer had gone through documentations and resources online to solve the problem but still couldn't solve it. The developer has shown that he/she can think for themselves and had done research and tried to understand but still couldn't solve the problem. The developer also pastes the documentation used and code example to better illustrate the problem. It also states the end goal, that the developer wants to understand Why do generic methods and generic types have different type introduction syntax. Which is good that it's actually the header of the question. 
    
-## Overall 
-  Overall doing the WODs and learning JavaScript has help me improved on my coding skills. I hope to learn more from JavaScript and the WODs. There a lot things that I still neeed to learn but I feel that I have made huge steps toward improving myself. So that one day I can be promoted from newbie to pro coder in no time.
+## The Not So Smart Way 
+    [Here]()
