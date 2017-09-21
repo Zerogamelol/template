@@ -7,7 +7,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium left floated image" src="../images/stack-overflow.png">
+<img class="ui medium left floated image" src="../images/cding-std.jpg">
 
 ## Good looks
  
