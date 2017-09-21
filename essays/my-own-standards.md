@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions
-date: 2017-08-30
+title: My Own Standards
+date: 2017-09-20
 labels:
   - Learning
 ---
