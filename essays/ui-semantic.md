@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: My Own Standards
-date: 2017-09-20
+title: Semantic UI
+date: 2017-10-05
 labels:
   - Learning
 ---
