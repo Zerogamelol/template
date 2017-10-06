@@ -7,4 +7,4 @@ labels:
   - Learning
 ---
 
-<img class="ui medium left floated image" src="../images/cding-std.png">
+<img class="ui medium left floated image" src="../images/semantic.png">
