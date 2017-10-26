@@ -5,7 +5,7 @@ title: Extinct
 date: 2017-08-30
 labels:
   - Software Engineering
-  - Java Script
+  - Meteor
   - Learning
 ---
 
