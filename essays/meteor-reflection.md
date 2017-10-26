@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Extinct
-date: 2017-08-30
+date: 2017-10-26
 labels:
   - Software Engineering
   - Meteor
