@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium left floated image" src="../images/js.png">
+<img class="ui medium left floated image" src="../images/design_patterns.png">
 
 ## Graphic Design
 
