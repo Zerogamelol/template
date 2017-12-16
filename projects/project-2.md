@@ -19,4 +19,4 @@ The application we created was a website application which would allow UH studen
 
 This project was extremly hard to do. There were many things that I had to learn about how Meteor and Semantic UI worked that we didn't have that much time to actually develope and code. I created the filter page and with the help of my team members we got it to work. I learned that we should learn more about how to use the tools we have before going in and start developing. I felt that when I was working on the project that I only knew a portion of what Meteor and Semantic UI was capable of. So because I didn't how to use them properly, I lagged behind on developement.
 
-Source: <a href="https://github.com/uhcommunity/Community"></i>Community</a>
+Source: <a href="https://github.com/uhcommunity/Community">Community</a>
