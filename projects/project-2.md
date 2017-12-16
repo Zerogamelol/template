@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uhcommunity.png
+image: images/community.png
 title: UH Community
 permalink: projects/uhcommunity
 date: 2017
