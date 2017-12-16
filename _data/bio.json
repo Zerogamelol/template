@@ -53,6 +53,8 @@
         "C++",
         "Java",
         "Javascript"
+        "Meteor"
+        "Semantic UI"
       ]
     },
     {
@@ -77,12 +79,6 @@
       "courses": [
       ]
     }
-  ],
-  "work": [
-   
-  ],
-  "volunteer": [
-    
   ],
   "awards": [
     {
