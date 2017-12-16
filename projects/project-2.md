@@ -13,7 +13,7 @@ labels:
 summary: A website used to show the different clubs in UH created using Meteor and Semantic UI. 
 ---
 
-<img class="ui image" src="/images/puzzle.png">
+<img class="ui image" src="/images/community.png">
 
 The puzzle game consists of a picture which are divided by a 3 x 3 grid. Each box in this grid is a part of the picture except one of 
 them and the goal is to correctly order the pieces. Only pieces right next to empty one is able to be moved. 
